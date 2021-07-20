@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rbf2/static/css/main.145fec56.chunk.css",
+    "main.js": "/rbf2/static/js/main.ff0cc52d.chunk.js",
+    "main.js.map": "/rbf2/static/js/main.ff0cc52d.chunk.js.map",
+    "runtime-main.js": "/rbf2/static/js/runtime-main.c1496c40.js",
+    "runtime-main.js.map": "/rbf2/static/js/runtime-main.c1496c40.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/rbf2/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.ba0c67ef.chunk.js": "/rbf2/static/js/2.ba0c67ef.chunk.js",
+    "static/js/2.ba0c67ef.chunk.js.map": "/rbf2/static/js/2.ba0c67ef.chunk.js.map",
+    "static/js/3.d5a24a02.chunk.js": "/rbf2/static/js/3.d5a24a02.chunk.js",
+    "static/js/3.d5a24a02.chunk.js.map": "/rbf2/static/js/3.d5a24a02.chunk.js.map",
+    "index.html": "/rbf2/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/rbf2/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.145fec56.chunk.css.map": "/rbf2/static/css/main.145fec56.chunk.css.map",
+    "static/js/2.ba0c67ef.chunk.js.LICENSE.txt": "/rbf2/static/js/2.ba0c67ef.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rbf2/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1496c40.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.ba0c67ef.chunk.js",
+    "static/css/main.145fec56.chunk.css",
+    "static/js/main.ff0cc52d.chunk.js"
+  ]
+}
